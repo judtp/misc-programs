@@ -93,7 +93,7 @@ def maxPathSum(graph, node_weight, source, rows):
         
 
 """
-Generates a directed triangle graph from the top-down
+Generates a directed triangle graph from the top-down 
 Creates an adjacency list, as a mapping of nodes to their neighbors
 """
 def genTriangleGraph(rows):
